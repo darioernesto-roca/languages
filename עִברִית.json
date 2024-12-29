@@ -1,0 +1,40 @@
+{
+    "Hebreo": {
+      "Nivel": "Principiante - מַתחִיל",
+      "Lecciones": [
+        {
+          "Lección 1": {
+            "Nombre": "Alfabeto Hebreo",
+            "Contenido": [
+              { "Letra": "Alef", "Símbolo": "א" },
+              { "Letra": "Bet", "Símbolo": "ב" },
+              { "Letra": "Gimel", "Símbolo": "ג" },
+              { "Letra": "Dalet", "Símbolo": "ד" },
+              { "Letra": "Hei", "Símbolo": "ה" },
+              { "Letra": "Vav", "Símbolo": "ו" },
+              { "Letra": "Zayin", "Símbolo": "ז" },
+              { "Letra": "Jet", "Símbolo": "ח" },
+              { "Letra": "Tet", "Símbolo": "ט" },
+              { "Letra": "Yud", "Símbolo": "י" },
+              { "Letra": "Kaf", "Símbolo": "כ" },
+              { "Letra": "Jaf", "Símbolo": "ך" },
+              { "Letra": "Lamed", "Símbolo": "ל" },
+              { "Letra": "Mem", "Símbolo": "מ" },
+              { "Letra": "Nun", "Símbolo": "נ" },
+              { "Letra": "Samech", "Símbolo": "ס" },
+              { "Letra": "Ayin", "Símbolo": "ע" },
+              { "Letra": "Pei", "Símbolo": "פ" },
+              { "Letra": "Fei", "Símbolo": "פ" },
+              { "Letra": "Tsadi", "Símbolo": "צ" },
+              { "Letra": "Quf", "Símbolo": "ק" },
+              { "Letra": "Resh", "Símbolo": "ר" },
+              { "Letra": "Shin", "Símbolo": "ש" },
+              { "Letra": "Sin", "Símbolo": "ש" },
+              { "Letra": "Tav", "Símbolo": "ת" }
+            ]
+          }
+        }
+      ]
+    }
+  }
+  
