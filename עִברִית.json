@@ -51,6 +51,44 @@
               ]
             }
           ]
+        },
+        "Lección 3": {
+          "Nombre": "Expresiones para saludar",
+          "Contenido": [
+            {
+              "Top 10 Vocabulario del hogar": [
+                "Hola: שלום /shalóm/",
+                "Buenos días: בוקר טוב /bóker tov/",
+                "Buenas tardes: צהריים טובים /tzohoráim tovim/",
+                "Buenas noches: לילה טוב /lailá tov/",
+                "Adiós: להתראות /lehitraót/",
+                "Hasta luego: להתראות /lehitraót/",
+                "Hasta mañana: להתראות /lehitraót/",
+                "Hasta pronto: להתראות /lehitraót/",
+                "¿Cómo estás?: איך אתה? /ej atá/",
+                "¿Cómo estás?: איך את? /ej at/"
+              ]
+            }
+          ]
+        },
+        "Lección 4": {
+          "Nombre": "Expresiones para despedirse",
+          "Contenido": [
+            {
+              "Top 10 Vocabulario del hogar": [
+                "Adiós: להתראות /lehitraót/",
+                "Hasta luego: להתראות /lehitraót/",
+                "Hasta mañana: להתראות /lehitraót/",
+                "Hasta pronto: להתראות /lehitraót/",
+                "Nos vemos: נתראה /nitrajé/",
+                "Nos vemos pronto: נתראה בקרוב /nitrajé bekaróv/",
+                "Nos vemos mañana: נתראה מחר /nitrajé machár/",
+                "Nos vemos luego: נתראה אחר כך /nitrajé ajár jaj/",
+                "Hasta la próxima: לפעם הבאה /lifám habáá/",
+                "Hasta la próxima vez: לפעם הבאה /lifám habáá/"
+              ]
+            }
+          ]
         }
       }
     ]
