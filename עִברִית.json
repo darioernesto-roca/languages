@@ -127,6 +127,25 @@
               ]
             }
           ]
+        },
+        "Lección 7": {
+          "Nombre": "Expresiones para pedir ayuda",
+          "Contenido": [
+            {
+              "Top 10 Vocabulario del hogar": [
+                "Ayúdame: עזור לי /ezór li/",
+                "Ayúdame por favor: עזור לי בבקשה /ezór li bevakashá/",
+                "Necesito ayuda: אני צריך עזרה /ani tzaríj ezrá/",
+                "Necesito tu ayuda: אני צריך את עזרתך /ani tzaríj et ezratjá/",
+                "Por favor, ayúdame: בבקשה, עזור לי /bevakashá, ezór li/",
+                "Por favor, ayúdame con esto: בבקשה, עזור לי עם זה /bevakashá, ezór li im ze/",
+                "Por favor, ayúdame a entender: בבקשה, עזור לי להבין /bevakashá, ezór li lehavín/",
+                "Por favor, ayúdame a aprender: בבקשה, עזור לי ללמוד /bevakashá, ezór li lilmod/",
+                "Por favor, ayúdame a recordar: בבקשה, עזור לי לזכור /bevakashá, ezór li lejazor/",
+                "Por favor, ayúdame a practicar: בבקשה, עזור לי לתרגל /bevakashá, ezór li litraguél/"
+              ]
+            }
+          ]
         }
       }
     ]
