@@ -146,6 +146,66 @@
               ]
             }
           ]
+        },
+        "Lección 8": {
+          "Nombre": "Pronombres",
+          "Contenido": [
+            {
+              "Pronombres Personales": [
+                "Yo: אני /ani/",
+                "Tú: אתה /ata/",
+                "Él: הוא /hu/",
+                "Ella: היא /hi/",
+                "Nosotros: אנחנו /anajnu/",
+                "Vosotros: אתם /atem/",
+                "Ellos: הם /hem/",
+                "Ellas: הן /hen/"
+              ]
+            }
+          ]
+        },
+        "Lección 9": {
+          "Nombre": "Conectores y conjunciones",
+          "Contenido": [
+            {
+              "Conectores y conjunciones": [
+                "Y: ו /ve/",
+                "O: או /o/",
+                "Que: ש /she/",
+                "Aunque: אף על פי ש /af al pi she/",
+                "En cambio: במקום /bemakóm/",
+                "Pero: אבל /aval/",
+                "Sin embargo: אף על פי כן /af al pi ken/",
+                "Pues: כי /ki/",
+                "Porque: כי /ki/",
+                "Por eso: לכן /lajén/",
+                "Por ejemplo: לדוגמה /ledugmá/",
+                "Además: בנוסף /benosef/",
+                "También: גם /gam/",
+                "En primer lugar: במקום ראשון /bemakóm rishón/",
+                "En segundo lugar: במקום שני /bemakóm sheni/",
+                "En tercer lugar: במקום שלישי /bemakóm shlishí/",
+                "Finalmente: לבסוף /lebasóf/",
+                "En resumen: לסיכום /lesijum/",
+                "En conclusión: לסיכום /lesijum/",
+                "A continuación: לאחר מכן /leajár mekan/",
+                "Después: לאחר מכן /leajár mekan/",
+                "Antes: לפני /lifnéi/",
+                "Debido a: בגלל /beglál/",
+                "A pesar de: למרות /lemajrót/",
+                "Inmediatamente: מיד /mid/",
+                "Por un lado: מצד אחד /mitsad ejád/",
+                "Por el otro lado: מצד שני /mitsad sheni/",
+                "En efecto: באמת /beemet/",
+                "En mi opinión: לדעתי /ledaati/",
+                "Por lo tanto: לכן /lajén/",
+                "Si: אם /im/",
+                "Entonces: אז /az/",
+                "Así que: כך ש /kej she/",
+                "Mientras: בזמן ש /bezman she/"
+              ]
+            }
+          ]
         }
       }
     ]
