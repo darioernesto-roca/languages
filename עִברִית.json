@@ -3,6 +3,17 @@
     "Nivel": "Principiante - מַתחִיל",
     "Lecciones": [
       {
+        "Lección 0": {
+          "Nombre": "Frases que yo quisiera aprender",
+          "Contenido": [
+            "Yo sé hablar en Hebreo, no mucho, pero estoy aprendiendo: אני יודע לדבר עברית, לא הרבה, אבל אני לומד / Ani iodeá ledaber ivrit, lo harbe, aval ani lomed",
+            "Yo no tengo mucho vocabulario todavía: אין לי הרבה מילים עדיין / Ein li harbe milim adain",
+            "Pero, me gusta practicar siempre que tengo la oportunidad: אבל, אני אוהב לתרגל תמיד כשיש לי הזדמנות / Aval, ani ohev litraguel tamid ksheyesh li hazmanot",
+            "¿Y tú cómo estás hoy?: ואתה איך אתה היום? / Veata ej atá haióm?",
+            "Aquí todo está, yo me siento muy bien hoy: כאן הכל בסדר, אני מרגיש מאוד טוב היום / Kan hakol beseder, ani marguísh meod tov haióm",
+            "No muy bien hoy, han paso algunas cosas no muy buenas para mí: לא כל כך טוב היום, קרו כמה דברים לא כל כך טובים בשבילי / Lo kol kaj tov haióm, karú kama dvarim lo kol kaj tovim bishvili"
+          ]
+        },
         "Lección 1": {
           "Nombre": "Alfabeto Hebreo",
           "Contenido": [
